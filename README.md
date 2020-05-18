@@ -1,2 +1,2 @@
-# C-Learning
-C language learning exercises
+# C Learning
+## C language learning exercises
