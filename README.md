@@ -12,6 +12,6 @@
 [linkismi](url adresi, bu kısım görünmez)<br/>
 [Google Linki](https://www.google.com.tr/)
 ![Google Resmi](https://tr.wikipedia.org/wiki/Google#/media/Dosya:Google_2015_logo.svg)<br/>
-![türk bayrağı](https://www.freepik.com/premium-vector/turkish-flag-blowing-wind_6992181.htm)
+![örnek resim](https://tr.wikipedia.org/wiki/Anasayfa#/media/Dosya:Junior-Jaguar-Belize-Zoo.jpg)
 
 
