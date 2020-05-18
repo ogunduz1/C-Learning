@@ -1,0 +1,29 @@
+GIT KOMUTLARI
+
+git init : foldera git kurar
+
+git status : durumu gösterir
+
+git add . (dosya ismi de eklenebirili) : gecici alana dosya gönderir
+
+git commit -m "mesaj" : repository ye gönderir
+
+git diff : farklılıkları gösterir
+
+git restore <dosyaadi> : depodaki dosyayı kurtarır
+
+git checkout -- <dosyaadi> : depodaki dosyayı kurtarir 
+
+git log : git repositorisini gösterir
+
+git restore --staged : değiştirilmiş ve repositoriye gönderilmiş dosyalrı kurtar
+
+git checkout "karışıkkod" -- . : kodu secilen versiyona geri döner 
+
+git rm <dosyaadi> : dosya siler
+
+git remote add "isimoluştur" link : klasörü git reposuna bağlar
+
+git push -all "isim" : repoya dosya gönderir
+
+
