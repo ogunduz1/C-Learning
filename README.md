@@ -12,6 +12,6 @@
 [linkismi](url adresi, bu kısım görünmez)<br/>
 [Google Linki](https://www.google.com.tr/)
 ![Google Resmi](https://tr.wikipedia.org/wiki/Google#/media/Dosya:Google_2015_logo.svg)<br/>
-![örnek resim](https://tr.wikipedia.org/wiki/Anasayfa#/media/Dosya:Junior-Jaguar-Belize-Zoo.jpg)
+![örnek resim](https://tr.wikipedia.org/wiki/Anasayfa#/media/Dosya:Junior-Jaguar-Belize-Zoo.jpg)<br/>
 
 
