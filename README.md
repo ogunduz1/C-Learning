@@ -9,6 +9,9 @@
 ~~yazılan kısmın üstünü çizer~~
 `eğik tek tırnak arasına kod yazılabilir`
 `altgr + virgül `<br/>
-[linkismi](url adresi)
+[linkismi](url adresi, bu kısım görünmez)<br/>
 [Google Linki](https://www.google.com.tr/)
+![Google Resmi](https://tr.wikipedia.org/wiki/Google#/media/Dosya:Google_2015_logo.svg)<br/>
+![türk bayrağı](https://www.freepik.com/premium-vector/turkish-flag-blowing-wind_6992181.htm)
+
 
